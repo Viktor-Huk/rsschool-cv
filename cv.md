@@ -1,4 +1,4 @@
-###1. First Name, Last Name
+### 1. First Name, Last Name
 **Viktar Huk**
 ### 2. Contact Info
 * *Email:* huk.viktar@gmail.com
