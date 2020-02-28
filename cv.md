@@ -6,7 +6,7 @@
 ### 3. Summary
 Сommunicable, stress-resistant, responsible, executive, I have good analytical skills, an excellent team player. I have the ability to learn quickly on my own.
 ### 4. Skills
-*Java
+* Java
 * OOP
 * GIT
 ### 5. Code examples
